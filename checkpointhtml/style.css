@@ -1,0 +1,40 @@
+h1{
+        color:white;
+        background-color: darkorange;
+        font-style: oblique;
+       
+}
+
+nav {
+
+  
+  text-align: center;
+  background-color: darkorange;
+  text-decoration: none;
+ 
+    
+
+}
+nav li{
+    list-style: none;
+    display:inline-block ;
+    padding: 50px;
+    outline-color: darkorange;
+ 
+ 
+}
+
+a{
+    color: black;
+    list-style-position: outside;
+}
+
+iframe{
+    display: table-column;
+}
+body{
+   
+}
+footer{
+    display: ;
+}
